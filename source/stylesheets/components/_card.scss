@@ -36,9 +36,11 @@
   z-index: 2;
   background: white;
   opacity: 0;
+
+  &:hover {
+  opacity: 0.2;
+  }
 }
 
-.card-link:hover {
-  opacity: 0.2;
-}
+
 
