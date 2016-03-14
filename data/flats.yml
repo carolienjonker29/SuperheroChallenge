@@ -1,0 +1,33 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  description: Lovely room in the heart of Montmartre, perfect place to visit Paris.
+  city: Paris, France
+  maximum_number_of_guests: 3
+  rating: 4
+  wifi: true
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpg
+  owner_picture: romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  description: This flat is perfectly located at Piccadilly Circus.
+  city: London, UK
+  maximum_number_of_guests: 2
+  rating: 5
+  wifi: false
+anne:
+  owner_name: Anne Collet
+  picture: card-brussels.jpg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  description: House in the capital of Belgium, get ready to taste beer and fries.
+  city: Brussels, Belgium
+  maximum_number_of_guests: 5
+  rating: 3
+  wifi: false
