@@ -12,7 +12,7 @@
           <% flat = data.flats[owner] %>
 
           <!-- Inject flat data in template -->
-          <div class="flat-card" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('<%= image_path flat.picture %>');">
+          <div class="flat-card" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('<%= image_path flat.picture %>'); background-repeat: no-repeat; background-size: cover">
             <div class="flat-card-user">
               <%= image_tag flat.owner_picture, class: "flat-owner" %>
             </div>
